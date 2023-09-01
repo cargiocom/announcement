@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <div><img src="https://github.com/cargiocom/cargiocom/blob/629e9320c972df1d0ffe0379d5e7dc36ce8ce93d/img/banner2.jpg" alt="banner2"/></div>
 <br>
 <p>Cargio is a global leader in investment management, providing a broad range of financial services to institutional and retail clients. The company was founded in 2004 and has since grown into one of the largest and most respected players in the investment industry.</p>
