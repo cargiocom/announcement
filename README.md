@@ -33,21 +33,21 @@ In developing the platform, we actively embraced modern technologies, including 
         <li><h3>Partnership and trust:<h3> Our rebranding emphasized the importance of the partnership and trust we build with our clients and investors. We place great emphasis on engaging with our partners and maintaining long-term relationships.</li>
 </ul>
 
-The global rebranding reflects our ability to adapt to changing market demands and demonstrates our effort to be at the forefront of the investment management industry. We are proud to continue to provide innovative solutions and high levels of service, maintaining the long-term trust of our clients and investors.
-Artificial Intelligence Integration:
-We are proud to be on track to fully complete the integration of artificial intelligence into our trading solutions in 2023. This is a revolutionary step that allows us to provide more accurate and adaptive tools to analyze and predict market trends. With artificial intelligence at the core of our technology, we are facilitating more rational and informed trading decisions.
-New trading instruments:
-In the context of our rebranding, we have expanded our range of trading instruments, giving you more options to diversify your portfolio. This includes new tools for trading in different markets and areas so that you can choose among a variety of options to suit your investment strategies.
-Improved data analysis:
-We are working intensively to expand and improve analytical capabilities for our clients. New data analysis tools allow you to gain a deeper understanding of the markets, which in turn helps you make better-informed decisions.
-Training & Support:
-An important part of our rebranding is redesigning our training program. We will make it more accessible and personalized to help you learn new tools and technologies with ease. The crypto academy is scheduled to launch in early 2025.
+<p>The global rebranding reflects our ability to adapt to changing market demands and demonstrates our effort to be at the forefront of the investment management industry. We are proud to continue to provide innovative solutions and high levels of service, maintaining the long-term trust of our clients and investors.</p>
+<h3>Artificial Intelligence Integration:</h3>
+<p>We are proud to be on track to fully complete the integration of artificial intelligence into our trading solutions in 2023. This is a revolutionary step that allows us to provide more accurate and adaptive tools to analyze and predict market trends. With artificial intelligence at the core of our technology, we are facilitating more rational and informed trading decisions.</p>
+<h3>New trading instruments:</h3>
+<p>In the context of our rebranding, we have expanded our range of trading instruments, giving you more options to diversify your portfolio. This includes new tools for trading in different markets and areas so that you can choose among a variety of options to suit your investment strategies.</p>
+<h3>Improved data analysis:</h3>
+<p>We are working intensively to expand and improve analytical capabilities for our clients. New data analysis tools allow you to gain a deeper understanding of the markets, which in turn helps you make better-informed decisions.</p>
+<h3>Training & Support:</h3>
+<p>An important part of our rebranding is redesigning our training program. We will make it more accessible and personalized to help you learn new tools and technologies with ease. The crypto academy is scheduled to launch in early 2025.</p>
 
-Improving IT security has become an important part of our strategic journey. We recognize that in today's digital world, protecting information and data is integral to the success and long- term sustainability of companies. Therefore, we take measures to ensure a high level of protection and mitigate cybersecurity risks.
-Comprehensive security solutions:
-We develop comprehensive solutions to ensure the security of our clients' information systems. This includes analyzing vulnerabilities, predicting risks, implementing authentication and encryption mechanisms, and monitoring and responding to potential threats in real time.
-Integration of modern technology:
-We are actively integrating modern technologies into our security systems. This includes using artificial intelligence and machine learning to detect anomalies and implementing Blockchain technologies to ensure that data is secure and cannot be tampered with.
+<p>Improving IT security has become an important part of our strategic journey. We recognize that in today's digital world, protecting information and data is integral to the success and long- term sustainability of companies. Therefore, we take measures to ensure a high level of protection and mitigate cybersecurity risks.</p>
+<h3>Comprehensive security solutions:</h3>
+<p>We develop comprehensive solutions to ensure the security of our clients' information systems. This includes analyzing vulnerabilities, predicting risks, implementing authentication and encryption mechanisms, and monitoring and responding to potential threats in real time.</p>
+<h3>Integration of modern technology:</h3>
+<p>We are actively integrating modern technologies into our security systems. This includes using artificial intelligence and machine learning to detect anomalies and implementing Blockchain technologies to ensure that data is secure and cannot be tampered with.</p>
 
 We adhere to the highest security standards and follow the requirements of the relevant regulatory bodies. This allows our customers to be confident that their data and transactions are well protected.
 
