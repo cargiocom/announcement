@@ -49,24 +49,26 @@ In developing the platform, we actively embraced modern technologies, including 
 <h3>Integration of modern technology:</h3>
 <p>We are actively integrating modern technologies into our security systems. This includes using artificial intelligence and machine learning to detect anomalies and implementing Blockchain technologies to ensure that data is secure and cannot be tampered with.</p>
 
-We adhere to the highest security standards and follow the requirements of the relevant regulatory bodies. This allows our customers to be confident that their data and transactions are well protected.
+<p>We adhere to the highest security standards and follow the requirements of the relevant regulatory bodies. This allows our customers to be confident that their data and transactions are well protected.</p>
 
-Improving IT security is a priority, reflecting our commitment to providing our customers with innovative and reliable solutions. We focus on creating sustainable and secure environments for our customers to work and grow in the digital world.
+<p>Improving IT security is a priority, reflecting our commitment to providing our customers with innovative and reliable solutions. We focus on creating sustainable and secure environments for our customers to work and grow in the digital world.</p>
 
-In 2023, following a successful rebranding, Cargio announces new licenses in Australia and the UK, as well as ISO/IEC 27001 and (SOC) 2 Type II certifications, which enhance our capabilities and competencies in financial services. These licenses and certifications confirm our ability to provide a wide range of products and services at the highest level of quality and reliability.
-Launch of the Ambassador Program
+<p>In 2023, following a successful rebranding, Cargio announces new licenses in Australia and the UK, as well as ISO/IEC 27001 and (SOC) 2 Type II certifications, which enhance our capabilities and competencies in financial services. These licenses and certifications confirm our ability to provide a wide range of products and services at the highest level of quality and reliability.</p>
+<h3>Launch of the Ambassador Program</h3>
 
-Starting in 2023, we are proud to introduce our innovative new Ambassador Program, introduced as part of our recent rebranding. This program is a key element of our growth strategy, designed to strengthen our connection with our clients and partners, and reinforce our position as a leading leader in financial management.
-Purpose of the Ambassador Program:
-Our goal is to build a strong community that shares our values, commitment to innovation and contribution to financial technology. Through this program, we aim to strengthen engagement with our partners and institutional investors, providing them with unique benefits and opportunities.
-Benefits of Ambassadors:
-Members of our Ambassador Program will have access to exclusive opportunities:
-Access to private events and conferences organized by us.
-Direct communication with key company representatives to exchange ideas and feedback.
-Participation in the realization of our innovative projects and initiatives.
-Opportunity to collaborate with our specialists and experts for overall growth and development.
-Unique trading solutions for institutional investors
-Access to additional liquidity pools for financial funds and cofounders of large corporations.
-How to become an Ambassador:
-We invite everyone who shares our passion for innovation and commitment to success to join our Ambassador Program. A dedicated committee will select participants based on their contributions, experience and commitment to our values.
-The Ambassador Program underscores our commitment to actively engage with our customers and partners and reflects our insistence on developing innovative solutions for the financial industry.
+<p>Starting in 2023, we are proud to introduce our innovative new Ambassador Program, introduced as part of our recent rebranding. This program is a key element of our growth strategy, designed to strengthen our connection with our clients and partners, and reinforce our position as a leading leader in financial management.</p>
+<h3>Purpose of the Ambassador Program:</h3>
+<p>Our goal is to build a strong community that shares our values, commitment to innovation and contribution to financial technology. Through this program, we aim to strengthen engagement with our partners and institutional investors, providing them with unique benefits and opportunities.</p>
+<h3>Benefits of Ambassadors:</h3>
+<p>Members of our Ambassador Program will have access to exclusive opportunities:</p>
+<ul>
+  <li>Access to private events and conferences organized by us.</li>
+  <li>Direct communication with key company representatives to exchange ideas and feedback.</li>
+  <li>Participation in the realization of our innovative projects and initiatives.</li>
+  <li>Opportunity to collaborate with our specialists and experts for overall growth and development.</li>
+  <li>Unique trading solutions for institutional investors</li>
+  <li>Access to additional liquidity pools for financial funds and cofounders of large corporations.</li>
+</ul>
+<h3>How to become an Ambassador:</h3>
+<p>We invite everyone who shares our passion for innovation and commitment to success to join our Ambassador Program. A dedicated committee will select participants based on their contributions, experience and commitment to our values.</p>
+<p>The Ambassador Program underscores our commitment to actively engage with our customers and partners and reflects our insistence on developing innovative solutions for the financial industry.</p>
